@@ -8,3 +8,7 @@ pyaudio
 soundfile
 SpeechRecognition
 SpeechRecognition[whisper-local]
+pyautogui
+openai
+pillow
+torch
